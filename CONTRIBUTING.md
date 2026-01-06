@@ -1,5 +1,7 @@
 # Contribution Guidelines
 
+> 🇺🇦 **Note for Ukrainian contributors:** You can read these guidelines in Ukrainian [here](CONTRIBUTING.ua.md).
+
 Thanks for your interest in contributing to **Awesome Ukrainian Products**! 🇺🇦
 
 This is a curated list of awesome software, services, and products made in Ukraine or by Ukrainians.
