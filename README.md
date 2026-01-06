@@ -1,3 +1,5 @@
+<img src="./assets/preview.png" alt/>
+
 # Awesome Ukrainian Products [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome software, SaaS, games, and digital products made in Ukraine 🇺🇦 or by Ukrainian founders globally.
