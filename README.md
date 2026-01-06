@@ -32,6 +32,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 - [EdTech](#edtech)
 - [Health & Lifestyle](#health--lifestyle)
 - [Global Heritage](#global-heritage)
+- [Related Resources](#-related-resources)
 
 ---
 
@@ -95,6 +96,11 @@ To help navigate the list, we use the following badges to indicate the nature of
 - [WhatsApp](https://www.whatsapp.com/) - Co-founded by Jan Koum (born in Fastiv, Ukraine). <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-free.svg" height="20"/>
 - [PayPal](https://www.paypal.com/) / [Affirm](https://www.affirm.com/) - Co-founded by Max Levchin (born in Kyiv, Ukraine). <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-free.svg" height="20"/>
 
+---
+
+## Related Resources
+
+- [Made in Ukraine](https://github.com/chernivtsijs/made-in-ukraine) - An extensive collection focusing specifically on open-source libraries, packages, and frameworks (npm, pip, gem, etc.) developed by Ukrainians. Check this out to see the Ukrainian part of your `package.json`.
 
 ---
 
