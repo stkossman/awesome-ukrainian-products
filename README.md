@@ -10,12 +10,12 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 | Badge | Meaning | Description |
 | :--- | :--- | :--- |
-| **`Global`** | Global Recognition | Products known worldwide with a massive user base. |
-| **`Open Source`** | Open Source | Source code is available (GitHub/GitLab). |
-| **`Free`** | Free | Completely free to use. |
-| **`Freemium`** | Freemium | Free core features, paid upgrades available. |
-| **`Paid`** | Paid | Requires purchase or subscription. |
-| **`UA Origins`** | Ukrainian Origins | Founded by Ukrainians, currently HQ'd abroad (e.g., Silicon Valley). |
+| <img src="./assets/badge-global.svg" height="20"/> | **Global Recognition** | Products known worldwide with a massive user base. |
+| <img src="./assets/badge-opensource.svg" height="20"/> | **Open Source** | Source code is available (GitHub/GitLab). |
+| <img src="./assets/badge-free.svg" height="20"/> | **Free** | Completely free to use. |
+| <img src="./assets/badge-freemium.svg" height="20"/> | **Freemium** | Free core features, paid upgrades available. |
+| <img src="./assets/badge-paid.svg" height="20"/> | **Paid** | Requires purchase or subscription. |
+| <img src="./assets/badge-ua-origins.svg" height="20"/> | **Ukrainian Origins** | Founded by Ukrainians, currently HQ'd abroad (e.g., Silicon Valley). |
 
 ---
 
