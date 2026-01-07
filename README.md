@@ -16,7 +16,6 @@ To help navigate the list, we use the following badges to indicate the nature of
 | :--- | :--- | :--- |
 | <img src="./assets/badge-global.svg" height="20"/> | **Global Recognition** | Products known worldwide with a massive user base. |
 | <img src="./assets/badge-opensource.svg" height="20"/> | **Open Source** | Source code is available (GitHub/GitLab). |
-| <img src="./assets/badge-free.svg" height="20"/> | **Free** | Completely free to use. |
 | <img src="./assets/badge-freemium.svg" height="20"/> | **Freemium** | Free core features, paid upgrades available. |
 | <img src="./assets/badge-paid.svg" height="20"/> | **Paid** | Requires purchase or subscription. |
 | <img src="./assets/badge-ua-origins.svg" height="20"/> | **Ukrainian Origins** | Founded by Ukrainians, currently HQ'd abroad (e.g., Silicon Valley). |
@@ -57,14 +56,14 @@ To help navigate the list, we use the following badges to indicate the nature of
 - [Ahrefs](https://ahrefs.com/) - An all-in-one SEO toolset founded by Dmytro Gerasymenko, widely used by marketing professionals globally. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
 - [Restream](https://restream.io/) - A multi-streaming service founded in Vinnytsia that allows broadcasting to platforms like YouTube and Twitch simultaneously. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
 - [People.ai](https://people.ai/) - An enterprise revenue intelligence platform that uses AI to automate data capture for sales teams. <img src="./assets/badge-ua-origins.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [Jooble](https://jooble.org/) - One of the world's largest job aggregation engines, operating in over 70 countries. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-free.svg" height="20"/>
+- [Jooble](https://jooble.org/) - One of the world's largest job aggregation engines, operating in over 70 countries. <img src="./assets/badge-global.svg" height="20"/>
 - [Depositphotos](https://depositphotos.com/) / [VistaCreate](https://create.vista.com/) - A major stock content marketplace and graphic design tool founded by Dmytro Sergeyev. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
 - [3DLOOK](https://3dlook.me/) - A mobile body scanning technology for virtual try-on and precise body measuring in fashion retail. <img src="./assets/badge-paid.svg" height="20"/>
 
 
 ## FinTech
 
-- [Monobank](https://www.monobank.ua/) - Ukraine's first mobile-only bank and a technological benchmark for global fintech UX, founded by Fintech Band. <img src="./assets/badge-free.svg" height="20"/> <img src="./assets/badge-favourite.svg" />
+- [Monobank](https://www.monobank.ua/) - Ukraine's first mobile-only bank and a technological benchmark for global fintech UX, founded by Fintech Band. <img src="./assets/badge-favourite.svg" />
 - [Revolut](https://www.revolut.com/) - A global financial superapp co-founded by Vlad Yatsenko (CTO). <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-ua-origins.svg" height="20"/>
 
 ## AI & Deep Tech
@@ -90,15 +89,15 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 - [BetterMe](https://betterme.world/) - A leading ecosystem of health and fitness apps promoting a holistic approach to well-being. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
 - [Obimy](https://obimy.com/) - An emotional connection app that allows partners and friends to share feelings and "senses" digitally. <img src="./assets/badge-freemium.svg" height="20"/>
-- [Liki24](https://liki24.com/) - A health-tech platform for searching and delivering medicines, operating in Ukraine and the EU. <img src="./assets/badge-free.svg" height="20"/>
-- [Allset](https://www.allsetnow.com/) - A food ordering platform focusing on contactless dining and pickup, popular in the US. <img src="./assets/badge-ua-origins.svg" height="20"/> <img src="./assets/badge-free.svg" height="20"/>
+- [Liki24](https://liki24.com/) - A health-tech platform for searching and delivering medicines, operating in Ukraine and the EU.
+- [Allset](https://www.allsetnow.com/) - A food ordering platform focusing on contactless dining and pickup, popular in the US. <img src="./assets/badge-ua-origins.svg" height="20"/>
 
 ## Global Heritage
 
 *Tech giants founded or co-founded by people born in Ukraine.*
 
-- [WhatsApp](https://www.whatsapp.com/) - Co-founded by Jan Koum (born in Fastiv, Ukraine). <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-free.svg" height="20"/>
-- [PayPal](https://www.paypal.com/) / [Affirm](https://www.affirm.com/) - Co-founded by Max Levchin (born in Kyiv, Ukraine). <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-free.svg" height="20"/>
+- [WhatsApp](https://www.whatsapp.com/) - Co-founded by Jan Koum (born in Fastiv, Ukraine). <img src="./assets/badge-global.svg" height="20"/>
+- [PayPal](https://www.paypal.com/) / [Affirm](https://www.affirm.com/) - Co-founded by Max Levchin (born in Kyiv, Ukraine). <img src="./assets/badge-global.svg" height="20"/>
 
 ---
 
