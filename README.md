@@ -43,7 +43,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 - [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps, created by Volodymyr Agafonkin. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-opensource.svg" height="20"/>
 - [GitLab](https://about.gitlab.com/) - A complete DevOps platform delivered as a single application, co-founded by Dmytro Zaporozhets. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-opensource.svg" height="20"/>
-- [Diia Open Source](https://github.com/diia-open-source) - The core logic of the Ukrainian "State in a Smartphone" application, released by the Ministry of Digital Transformation. <img src="./assets/badge-opensource.svg" height="20"/>
+- [Diia Open Source](https://github.com/diia-open-source) - The core logic of the Ukrainian "State in a Smartphone" application, released by the Ministry of Digital Transformation. <img src="./assets/badge-opensource.svg" height="20"/> <img src="./assets/badge-favourite.svg" />
 
 ## Productivity & Utilities
 
@@ -64,7 +64,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 ## FinTech
 
-- [Monobank](https://www.monobank.ua/) - Ukraine's first mobile-only bank and a technological benchmark for global fintech UX, founded by Fintech Band. <img src="./assets/badge-free.svg" height="20"/>
+- [Monobank](https://www.monobank.ua/) - Ukraine's first mobile-only bank and a technological benchmark for global fintech UX, founded by Fintech Band. <img src="./assets/badge-free.svg" height="20"/> <img src="./assets/badge-favourite.svg" />
 - [Revolut](https://www.revolut.com/) - A global financial superapp co-founded by Vlad Yatsenko (CTO). <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-ua-origins.svg" height="20"/>
 
 ## AI & Deep Tech
@@ -75,11 +75,11 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 ## GameDev
 
-- [S.T.A.L.K.E.R. 2 / GSC Game World](https://www.stalker2.com/) - The creators of the legendary "Cossacks" and "S.T.A.L.K.E.R." series that defined Ukrainian game development. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [Frogwares](https://frogwares.com/frogwares-games/) - The creators of "Sherlock Holmes" series and The Sinking City. <img src="./assets/badge-paid.svg" height="20"/>
-- [Ostriv](https://ostrivgame.com/) - A city-building strategy game set in an 18th-century Ukrainian village, known for its unique organic layout mechanics. <img src="./assets/badge-paid.svg" height="20"/>
-- [Level Zero: Extraction](https://store.steampowered.com/app/1456940/Level_Zero_Extraction/) - An asymmetric survival horror PvPvE game by Doghowl Games. <img src="./assets/badge-paid.svg" height="20"/>
-- [4A Games](https://www.4a-games.com.mt/) - The creators of "Metro" series, was founded in Kyiv.
+- [S.T.A.L.K.E.R. 2 / GSC Game World](https://www.stalker2.com/) - The creators of the legendary "Cossacks" and "S.T.A.L.K.E.R." series that defined Ukrainian game development. <img src="./assets/badge-global.svg" height="20"/>
+- [Frogwares](https://frogwares.com/frogwares-games/) - The creators of "Sherlock Holmes" series and The Sinking City.
+- [Ostriv](https://ostrivgame.com/) - A city-building strategy game set in an 18th-century Ukrainian village, known for its unique organic layout mechanics.
+- [Level Zero: Extraction](https://store.steampowered.com/app/1456940/Level_Zero_Extraction/) - An asymmetric survival horror PvPvE game by Doghowl Games.
+- [4A Games](https://www.4a-games.com.mt/) - The creators of "Metro" series, was founded in Kyiv. <img src="./assets/badge-favourite.svg" />
 
 ## EdTech
 
