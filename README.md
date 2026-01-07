@@ -75,9 +75,10 @@ To help navigate the list, we use the following badges to indicate the nature of
 ## GameDev
 
 - [S.T.A.L.K.E.R. 2 / GSC Game World](https://www.stalker2.com/) - The creators of the legendary "Cossacks" and "S.T.A.L.K.E.R." series that defined Ukrainian game development. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [The Sinking City](https://frogwares.com/frogwares-games/) - An open-world investigation game inspired by H.P. Lovecraft, developed by Frogwares. <img src="./assets/badge-paid.svg" height="20"/>
+- [Frogwares](https://frogwares.com/frogwares-games/) - The creators of "Sherlock Holmes" series and The Sinking City. <img src="./assets/badge-paid.svg" height="20"/>
 - [Ostriv](https://ostrivgame.com/) - A city-building strategy game set in an 18th-century Ukrainian village, known for its unique organic layout mechanics. <img src="./assets/badge-paid.svg" height="20"/>
 - [Level Zero: Extraction](https://store.steampowered.com/app/1456940/Level_Zero_Extraction/) - An asymmetric survival horror PvPvE game by Doghowl Games. <img src="./assets/badge-paid.svg" height="20"/>
+- [4A Games](https://www.4a-games.com.mt/) - The creators of "Metro" series, was founded in Kyiv.
 
 ## EdTech
 
