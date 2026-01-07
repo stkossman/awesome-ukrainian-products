@@ -19,7 +19,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 | <img src="./assets/badge-freemium.svg" height="20"/> | **Freemium** | Free core features, paid upgrades available. |
 | <img src="./assets/badge-paid.svg" height="20"/> | **Paid** | Requires purchase or subscription. |
 | <img src="./assets/badge-ua-origins.svg" height="20"/> | **Ukrainian Origins** | Founded by Ukrainians, currently HQ'd abroad (e.g., Silicon Valley). |
-| <img src="./assets/badge-favourite.svg" height="20"/> | **Ukrainian Origins** | My personal favourites. |
+| <img src="./assets/badge-favourite.svg" height="20"/> | **Favourite** | My personal favourites. |
 
 ---
 
