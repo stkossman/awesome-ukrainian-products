@@ -15,7 +15,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 | Badge | Meaning | Description |
 | :--- | :--- | :--- |
 | <img src="./assets/badge-global.svg" height="20"/> | **Global Recognition** | Products known worldwide with a massive user base. |
-| <img src="./assets/badge-opensource.svg" height="20"/> | **Open Source** | Source code is available (GitHub/GitLab). |
+| <img src="./assets/badge-opensource.svg" height="25"/> | **Open Source** | Source code is available (GitHub/GitLab). |
 | <img src="./assets/badge-freemium.svg" height="20"/> | **Freemium** | Free core features, paid upgrades available. |
 | <img src="./assets/badge-paid.svg" height="20"/> | **Paid** | Requires purchase or subscription. |
 | <img src="./assets/badge-ua-origins.svg" height="20"/> | **Ukrainian Origins** | Founded by Ukrainians, currently HQ'd abroad (e.g., Silicon Valley). |
@@ -77,9 +77,9 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 ## Open Source & DevTools
 
-- [Diia Open Source](https://github.com/diia-open-source) - The core logic of the Ukrainian "State in a Smartphone" application, released by the Ministry of Digital Transformation. <img src="./assets/badge-opensource.svg" height="20"/> <img src="./assets/badge-favourite.svg" height="20" />
-- [GitLab](https://about.gitlab.com/) - A complete DevOps platform delivered as a single application, co-founded by Dmytro Zaporozhets. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-opensource.svg" height="20"/>
-- [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps, created by Volodymyr Agafonkin. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-opensource.svg" height="20"/>
+- [Diia Open Source](https://github.com/diia-open-source) - The core logic of the Ukrainian "State in a Smartphone" application, released by the Ministry of Digital Transformation. <img src="./assets/badge-opensource.svg" height="25"/> <img src="./assets/badge-favourite.svg" height="20" />
+- [GitLab](https://about.gitlab.com/) - A complete DevOps platform delivered as a single application, co-founded by Dmytro Zaporozhets. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-opensource.svg" height="25"/>
+- [Leaflet](https://leafletjs.com/) - The leading open-source JavaScript library for mobile-friendly interactive maps, created by Volodymyr Agafonkin. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-opensource.svg" height="25"/>
 
 ## Productivity & Utilities
 
