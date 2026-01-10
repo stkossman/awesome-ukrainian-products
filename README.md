@@ -16,7 +16,6 @@ To help navigate the list, we use the following badges to indicate the nature of
 | :--- | :--- | :--- |
 | <img src="./assets/badge-global.svg" height="20"/> | **Global Recognition** | Products known worldwide with a massive user base. |
 | <img src="./assets/badge-opensource.svg" height="25"/> | **Open Source** | Source code is available (GitHub/GitLab). |
-| <img src="./assets/badge-freemium.svg" height="20"/> | **Freemium** | Free core features, paid upgrades available. |
 | <img src="./assets/badge-paid.svg" height="20"/> | **Paid** | Requires purchase or subscription. |
 | <img src="./assets/badge-ua-origins.svg" height="20"/> | **Ukrainian Origins** | Founded by Ukrainians, currently HQ'd abroad (e.g., Silicon Valley). |
 | <img src="./assets/badge-favourite.svg" height="20"/> | **Favourite** | My personal favourites. |
@@ -40,13 +39,13 @@ To help navigate the list, we use the following badges to indicate the nature of
 ## AI & Deep Tech
 
 - [Petcube](https://petcube.com/) - Connected pet cameras and software that allow owners to watch and play with pets remotely. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [Reface](https://reface.ai/) - A synthetic media app for face-swapping in videos and GIFs that topped the US App Store. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
+- [Reface](https://reface.ai/) - A synthetic media app for face-swapping in videos and GIFs that topped the US App Store. <img src="./assets/badge-global.svg" height="20"/>
 - [Respeecher](https://www.respeecher.com/) - A voice cloning technology used in Hollywood (e.g., Star Wars) to replicate voices using deep learning. <img src="./assets/badge-paid.svg" height="20"/>
 
 ## EdTech
 
-- [Headway](https://makeheadway.com/) - A bite-sized learning app offering book summaries, frequently ranked #1 in the Education category globally. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
-- [Preply](https://preply.com/) - A global online language learning marketplace connecting tutors with students. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
+- [Headway](https://makeheadway.com/) - A bite-sized learning app offering book summaries, frequently ranked #1 in the Education category globally. <img src="./assets/badge-global.svg" height="20"/>
+- [Preply](https://preply.com/) - A global online language learning marketplace connecting tutors with students. <img src="./assets/badge-global.svg" height="20"/>
 
 ## FinTech
 
@@ -71,9 +70,9 @@ To help navigate the list, we use the following badges to indicate the nature of
 ## Health & Lifestyle
 
 - [Allset](https://www.allsetnow.com/) - A food ordering platform focusing on contactless dining and pickup, popular in the US. <img src="./assets/badge-ua-origins.svg" height="20"/>
-- [BetterMe](https://betterme.world/) - A leading ecosystem of health and fitness apps promoting a holistic approach to well-being. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
+- [BetterMe](https://betterme.world/) - A leading ecosystem of health and fitness apps promoting a holistic approach to well-being. <img src="./assets/badge-global.svg" height="20"/>
 - [Liki24](https://liki24.com/) - A health-tech platform for searching and delivering medicines, operating in Ukraine and the EU.
-- [Obimy](https://obimy.com/) - An emotional connection app that allows partners and friends to share feelings and "senses" digitally. <img src="./assets/badge-freemium.svg" height="20"/>
+- [Obimy](https://obimy.com/) - An emotional connection app that allows partners and friends to share feelings and "senses" digitally.
 
 ## Open Source & DevTools
 
@@ -84,18 +83,18 @@ To help navigate the list, we use the following badges to indicate the nature of
 ## Productivity & Utilities
 
 - [CleanMyMac](https://macpaw.com/cleanmymac) - An all-in-one cleanup and maintenance tool for macOS developed by MacPaw in Kyiv. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [Documents](https://readdle.com/documents) - A super app for file management on iOS, often referred to as the "Finder for iOS", by Readdle. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
-- [Grammarly](https://www.grammarly.com/) - An AI-powered writing assistant founded in Kyiv that helps millions communicate effectively. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
-- [Spark Mail](https://sparkmailapp.com/) - An intelligent email client by Readdle (Odesa) that helps manage inbox overload. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
+- [Documents](https://readdle.com/documents) - A super app for file management on iOS, often referred to as the "Finder for iOS", by Readdle. <img src="./assets/badge-global.svg" height="20"/>
+- [Grammarly](https://www.grammarly.com/) - An AI-powered writing assistant founded in Kyiv that helps millions communicate effectively. <img src="./assets/badge-global.svg" height="20"/>
+- [Spark Mail](https://sparkmailapp.com/) - An intelligent email client by Readdle (Odesa) that helps manage inbox overload. <img src="./assets/badge-global.svg" height="20"/>
 
 ## SaaS & Business
 
 - [3DLOOK](https://3dlook.me/) - A mobile body scanning technology for virtual try-on and precise body measuring in fashion retail. <img src="./assets/badge-paid.svg" height="20"/>
 - [Ahrefs](https://ahrefs.com/) - An all-in-one SEO toolset founded by Dmytro Gerasymenko, widely used by marketing professionals globally. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [Depositphotos](https://depositphotos.com/) / [VistaCreate](https://create.vista.com/) - A major stock content marketplace and graphic design tool founded by Dmytro Sergeyev. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
+- [Depositphotos](https://depositphotos.com/) / [VistaCreate](https://create.vista.com/) - A major stock content marketplace and graphic design tool founded by Dmytro Sergeyev. <img src="./assets/badge-global.svg" height="20"/>
 - [Jooble](https://jooble.org/) - One of the world's largest job aggregation engines, operating in over 70 countries. <img src="./assets/badge-global.svg" height="20"/>
 - [People.ai](https://people.ai/) - An enterprise revenue intelligence platform that uses AI to automate data capture for sales teams. <img src="./assets/badge-ua-origins.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
-- [Restream](https://restream.io/) - A multi-streaming service founded in Vinnytsia that allows broadcasting to platforms like YouTube and Twitch simultaneously. <img src="./assets/badge-global.svg" height="20"/> <img src="./assets/badge-freemium.svg" height="20"/>
+- [Restream](https://restream.io/) - A multi-streaming service founded in Vinnytsia that allows broadcasting to platforms like YouTube and Twitch simultaneously. <img src="./assets/badge-global.svg" height="20"/>
 
 ---
 
