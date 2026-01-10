@@ -4,6 +4,8 @@
 
 > A curated list of awesome software, SaaS, games, and digital products made in Ukraine 🇺🇦 or by Ukrainian founders globally.
 
+> 🇺🇦 **Support Ukraine:** Consider donating to [United24](https://u24.gov.ua/) (The official fundraising platform of Ukraine) or [Come Back Alive](https://savelife.in.ua/en/).
+
 **[🇺🇦 Читати інструкцію українською](CONTRIBUTING.ua.md)**
 
 This list aims to showcase the technological power and creativity of the Ukrainian IT sector. From world-famous unicorns to essential open-source utilities.
