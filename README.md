@@ -73,6 +73,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 
 - [Allset](https://www.allsetnow.com/) - A food ordering platform focusing on contactless dining and pickup, popular in the US. <img src="./assets/badge-ua-origins.svg" height="20"/>
 - [BetterMe](https://betterme.world/) - A leading ecosystem of health and fitness apps promoting a holistic approach to well-being. <img src="./assets/badge-global.svg" height="20"/>
+- [Gismart](https://gismart.com/) - A leading developer of entertainment, wellness, and music apps with over 1 billion downloads globally. Their popular products include wellness apps like *Luvly* and *Dancebit*, as well as music utilities like *Beat Maker Go* and *DJ it!*. <img src="./assets/badge-global.svg" height="20"/>
 - [Liki24](https://liki24.com/) - A health-tech platform for searching and delivering medicines, operating in Ukraine and the EU.
 - [Obimy](https://obimy.com/) - An emotional connection app that allows partners and friends to share feelings and "senses" digitally.
 
