@@ -98,6 +98,7 @@ To help navigate the list, we use the following badges to indicate the nature of
 - [Jooble](https://jooble.org/) - One of the world's largest job aggregation engines, operating in over 70 countries. <img src="./assets/badge-global.svg" height="20"/>
 - [People.ai](https://people.ai/) - An enterprise revenue intelligence platform that uses AI to automate data capture for sales teams. <img src="./assets/badge-ua-origins.svg" height="20"/> <img src="./assets/badge-paid.svg" height="20"/>
 - [Restream](https://restream.io/) - A multi-streaming service founded in Vinnytsia that allows broadcasting to platforms like YouTube and Twitch simultaneously. <img src="./assets/badge-global.svg" height="20"/>
+- [SoftServe](https://www.softserveinc.com/) - A major global IT consulting and digital services company founded in Ukraine. They specialize in software-as-a-service (SaaS) enablement, building cloud-based applications, AI solutions, and custom SaaS products for enterprise clients. <img src="./assets/badge-global.svg" height="20"/>
 
 ---
 
